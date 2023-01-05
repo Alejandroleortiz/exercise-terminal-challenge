@@ -1,0 +1,15 @@
+cd exercise-terminal-challenge/
+pwd
+ls -a
+ls -R
+clear
+/workspace/exercise-terminal-challenge/thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ cat trophy.txt
+/workspace/exercise-terminal-challenge/thecmdchallenge/funcode (master) $ ls *.js
+/workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol (master) $ mkdir not-that-funny
+ /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception (master) $ cp the-mostboring-text.txt lol.txt
+ /workspace/exercise-terminal-challenge/thecmdchallenge/funcode (master) $ mv kids.jpg images/hello/
+ /workspace/exercise-terminal-challenge/thecmdchallenge (master) $ rm -r small-name
+ /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol (master) $ cat the-ultimate-joke.txt
+ /workspace/exercise-terminal-challenge/thecmdchallenge (master) $ rm -r boringfolder/*
+ vi kamehameha/dragon-ball-jokes.md
+ Presionad dd en la linea a borrar, luego presionar esc para salir del modo edit, despues escribir :wp y presionar enter
